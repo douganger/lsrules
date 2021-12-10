@@ -11,6 +11,7 @@
       "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
       "protocol" : "tcp",
       "remote-domains" : [
+        "adobelogin.com",
         "adobe.com",
         "adobe.io"
       ]
@@ -24,6 +25,7 @@
       "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Adobe_CCXProcess.node",
       "protocol" : "tcp",
       "remote-domains" : [
+        "behance.net",
         "ftcdn.net",
         "adobe.com",
         "adobe.io"
@@ -48,6 +50,7 @@
       "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
       "protocol" : "tcp",
       "remote-domains" : [
+        "adobelogin.com",
         "adobess.com",
         "adobesc.com",
         "typekit.com",
@@ -81,6 +84,7 @@
       "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
       "protocol" : "tcp",
       "remote-domains" : [
+        "adobelogin.com",
         "adobecces.com",
         "adobe.com",
         "adobe.io"
