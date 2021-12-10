@@ -92,6 +92,16 @@
     },
     {
       "action" : "allow",
+      "creationDate" : 1639165447.325804,
+      "modificationDate" : 1639165447.325804,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
       "creationDate" : 1639109958.776027,
       "modificationDate" : 1639109958.776027,
       "owner" : "system",
